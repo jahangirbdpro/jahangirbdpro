@@ -134,8 +134,8 @@ Daily ops support, cost control, structured efficiency.
 
 <div align="center">
 
-<img height="170" src="https://streak-stats.demolab.com?user=jahangirbdpro&theme=tokyonight&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahangirbdpro&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_border=true&langs_count=8"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=jahangirbdpro&theme=tokyonight&background=0d1117&ring=58a6ff&fire=f0883e&currStreakLabel=58a6ff&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jahangirbdpro&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9&hide_border=true&include_all_commits=true&count_private=true&hide_title=true&card_width=450"/>
 
 <br/><br/>
 
@@ -155,7 +155,7 @@ Daily ops support, cost control, structured efficiency.
   <img alt="snake" src="https://raw.githubusercontent.com/jahangirbdpro/jahangirbdpro/output/github-contribution-grid-snake-dark.svg"/>
 </div>
 
-> ⚠️ Snake appears blank until you enable the action: **repo → Actions tab → search "GitHub Actions for GitHub profile snake" by Platane → Configure → Commit**. Wait ~5 min after first run.
+> ⚠️ Snake stays blank until you enable the action: **repo → Actions tab → search "GitHub Actions for GitHub profile snake" by Platane → Configure → Commit**. Wait ~5 min after first run.
 
 ---
 
