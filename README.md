@@ -3,13 +3,13 @@
      ══════════════════════════════════════════════════════════════ -->
 
 <a href="https://jahangir.net">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1e3a8a,100:58a6ff&height=260&section=header&text=JAHANGIR%20ALAM&fontColor=ffffff&fontSize=70&fontAlignY=40&desc=%E2%9A%A1%20FULL%20STACK%20%C2%B7%20ENTREPRENEUR%20%C2%B7%20TECHNOLOGIST%20%E2%9A%A1&descSize=15&descAlignY=62&descAlign=50&animation=fadeIn" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1e3a8a,100:58a6ff&height=260&section=header&text=JAHANGIR%20ALAM&fontColor=ffffff&fontSize=70&fontAlignY=40&desc=FULL%20STACK%20%C2%B7%20ENTREPRENEUR%20%C2%B7%20TECHNOLOGIST&descSize=15&descAlignY=62&descAlign=50&animation=fadeIn" alt="header"/>
 </a>
 
 <div align="center">
 
   <a href="https://jahangir.net">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=600&color=58A6FF&center=true&vCenter=true&multiline=false&width=780&height=42&lines=%E2%94%8F+Full+Stack+Web+Developer;%E2%94%8F+Business+Automation+Architect;%E2%94%8F+Building+from+Riyadh+%F0%9F%87%B8%F0%9F%87%A6;%E2%94%97+jahangir.net+%E2%86%92+let's+build" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=600&color=58A6FF&center=true&vCenter=true&width=780&height=42&lines=Full+Stack+Web+Developer;Business+Automation+Architect;Building+from+Saudi+Arabia+%F0%9F%87%B8%F0%9F%87%A6;jahangir.net+%E2%86%92+let's+build" alt="typing"/>
   </a>
 
   <br/>
@@ -50,7 +50,7 @@ const jahangir = {
 </td>
 <td width="42%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jahangirbdpro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9&include_all_commits=true&count_private=true&custom_title=%E2%9A%A1%20GitHub%20Footprint" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=jahangirbdpro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f0883e&text_color=c9d1d9&include_all_commits=true&count_private=true&custom_title=GitHub%20Footprint" width="100%"/>
 
 </td>
 </tr>
@@ -58,41 +58,26 @@ const jahangir = {
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/> &nbsp; Arsenal
+## ⚡ &nbsp; Arsenal
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/php-icon.svg" width="48" height="48"/><br/>PHP
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48"/><br/>MySQL
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48"/><br/>JS
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48"/><br/>React
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="48" height="48"/><br/>Node
-</td>
-<td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48"/><br/>Git
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/><br/>Tailwind
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48"/><br/>WP
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48"/><br/>Linux
-</td>
-</tr>
-</table>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=php,mysql,js,ts,react,nodejs,tailwind,bootstrap,html,css,wordpress,git,github,linux,vscode,figma&perline=8" />
+</a>
+
+<br/><br/>
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -158,21 +143,19 @@ Daily ops support, cost control, structured efficiency.
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jahangirbdpro&bg_color=0d1117&color=58a6ff&line=f0883e&point=238636&area=true&hide_border=true&custom_title=%E2%9A%A1%20Contribution%20Pulse"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jahangirbdpro&bg_color=0d1117&color=58a6ff&line=f0883e&point=238636&area=true&hide_border=true&custom_title=Contribution%20Pulse"/>
 
 </div>
 
 ---
 
-## 🐍 &nbsp; Watch My Contributions Get Eaten
+## 🐍 &nbsp; Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jahangirbdpro/jahangirbdpro/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jahangirbdpro/jahangirbdpro/output/github-snake.svg"/>
-    <img alt="snake" src="https://raw.githubusercontent.com/jahangirbdpro/jahangirbdpro/output/github-contribution-grid-snake.svg"/>
-  </picture>
+  <img alt="snake" src="https://raw.githubusercontent.com/jahangirbdpro/jahangirbdpro/output/github-contribution-grid-snake-dark.svg"/>
 </div>
+
+> ⚠️ Snake appears blank until you enable the action: **repo → Actions tab → search "GitHub Actions for GitHub profile snake" by Platane → Configure → Commit**. Wait ~5 min after first run.
 
 ---
 
@@ -202,4 +185,4 @@ Daily ops support, cost control, structured efficiency.
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1e3a8a,100:0d1117&height=120&section=footer&text=thanks%20for%20scrolling%20%E2%9C%A8&fontColor=ffffff&fontSize=16&fontAlignY=75&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1e3a8a,100:0d1117&height=120&section=footer&text=thanks%20for%20scrolling&fontColor=ffffff&fontSize=18&fontAlignY=75&animation=twinkling"/>
